@@ -71,7 +71,7 @@ matplotlib
 
 ## Autor
 
-[Tu Nombre]
+[Alejandro Lopez]
 
 ## Agradecimientos
 
